@@ -23,6 +23,8 @@ npm run build:pages
 
 The Pages version is published from `main/docs` at `https://alexnovikov-oracle.github.io/FY27_Hackathon_Poker_Protocols/`.
 
+The HTTPS forwarding link for the live OCI-hosted service is `https://alexnovikov-oracle.github.io/FY27_Hackathon_Poker_Protocols/live/`, which redirects to `http://137.23.19.214:8501/`.
+
 For the OCI jumphost deployment server:
 
 ```bash

@@ -15,6 +15,14 @@ npm run dev
 
 Open the local URL printed by Vite, usually `http://localhost:5173`.
 
+GitHub Pages HTTPS build:
+
+```bash
+npm run build:pages
+```
+
+The Pages version is published from `main/docs` at `https://alexnovikov-oracle.github.io/FY27_Hackathon_Poker_Protocols/`.
+
 For the OCI jumphost deployment server:
 
 ```bash

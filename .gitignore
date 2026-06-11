@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.env
+.env.local
+.DS_Store
+Wallet_*.zip
+*.key
+github_token
+github_creds
+wallet_pass
+hack27_pass
+Scoring_Rubric.xlsm
